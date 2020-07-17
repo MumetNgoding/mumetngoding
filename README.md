@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on XDA-Developer.
 - 🤔 I’m looking for help with XDA-Developer Forum.
 - 💬 Ask me about Android or any tech related stuff.
-- 📫 How to reach me: 
+- 📫 How to reach me: [Facebook - pwnable(https://Facebook.com/pwnable)
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
