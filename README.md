@@ -1,9 +1,9 @@
 ### Hola, I'm Bryan Hafidz! 👋
 
-- 🔭 I’m currently working on Front of the Computer. 
+- 🔭 I’m currently working on Stay at Home. 
 - 🌱 I’m currently learning Android Development.
-- 👯 I’m looking to collaborate on XDA-Developer.
-- 🤔 I’m looking for help with XDA-Developer Forum.
+- 👯 I’m looking to collaborate on Open Source.
+- 🤔 I’m looking for help with Search Engine.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: [Facebook - pwnable](https://Facebook.com/pwnable)
 - 😄 Pronouns: He/His 
