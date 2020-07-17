@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola, I'm Bryan Hafidz! 👋
 
-<!--
-**MumetNgoding/mumetngoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Front of the Computer. 
+- 🌱 I’m currently learning Android Development.
+- 👯 I’m looking to collaborate on XDA-Developer.
+- 🤔 I’m looking for help with XDA-Developer Forum.
+- 💬 Ask me about Android or any tech related stuff.
+- 📫 How to reach me: 
+- 😄 Pronouns: He/His 
+- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=MumetNgoding&&show_icons=true&title_color=00FFFF&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
