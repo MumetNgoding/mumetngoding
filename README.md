@@ -1,4 +1,4 @@
-### Hola, I'm Bryan Hafidz! 👋
+### Hola, I'm Hafidz Radhival! 👋
 
 - 🔭 I’m currently working on Stay at Home. 
 - 🌱 I’m currently learning Android Development.
