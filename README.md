@@ -1,13 +1,12 @@
 ### Hola, I'm Hafidz Radhival! 👋
 
 - 🔭 I’m currently working on Stay at Home. 
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning Android Developer, Web Developer, Game Developer, DevOps, Linux Administrator and IT Support.
 - 👯 I’m looking to collaborate on Open Source.
 - 🤔 I’m looking for help with Search Engine.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me : [Facebook - pwnable](https://Facebook.com/pwnable)
 - 🌐 Official Website : [Website - Bryn-Lab](https://bryn-lab.my.id)
-- 😄 Pronouns : He/His 
 - ⚡ Fun fact : I spend almost 12 hours listening songs everyday.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mumetngoding&bg_color=30,e96443,904e95&title_color=fad000&text_color=75eeb2&icon_clor=0480ef">
