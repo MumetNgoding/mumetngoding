@@ -1,7 +1,7 @@
 ### Hola, I'm Hafidz Radhival! 👋
 
 - 🔭 I’m currently working on Stay at Home. 
-- 🌱 I’m currently learning Android Developer, Web Developer, Game Developer, DevOps, Linux Administrator and IT Support.
+- 🌱 I’m currently learning Mobile Developer(Kotlin, Flutter), DevOps, Linux Administrator, IT Support Engineer and Continuous Audit..
 - 👯 I’m looking to collaborate on Open Source.
 - 🤔 I’m looking for help with Search Engine.
 - 💬 Ask me about Android or any tech related stuff.
